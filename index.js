@@ -1,7 +1,7 @@
 const width = 320
 const height = 240
 let ant
-const numberOfMoves = 50
+const numberOfMoves = 500
 
 const white = [255, 255, 255, 255]
 const black = [0, 0, 0, 255]
